@@ -16,3 +16,8 @@
 add and change image path line 651 in `index.html`
 - API server in `index.js`
 
+## Further work
+- Refresh page after receive data
+- Magnifier glass
+
+### WARISSARA C
