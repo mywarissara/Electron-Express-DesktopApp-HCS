@@ -12,7 +12,7 @@
     - iso
     - path
 
-- you can add more key in `index.html` and update json file
+- you can add more keys in `index.html` and update json file
 add and change image path line 651 in `index.html`
 - API server in `index.js`
 
